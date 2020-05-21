@@ -12,7 +12,7 @@ def find_even_values(src)
       if src[row_index]
     
     [element_index].even?
-            src[row_index]
+            p src[row_index]
       
       [element_index]
    end
